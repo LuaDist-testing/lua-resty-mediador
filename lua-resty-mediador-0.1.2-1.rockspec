@@ -1,7 +1,7 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-mediador"
-version = "0.1.1-1"
+version = "0.1.2-1"
 
 description = {
   summary  = "Mediador, determine address of proxied request and IP handling",
@@ -11,13 +11,13 @@ description = {
 
 -- LuaDist source
 source = {
-  tag = "0.1.1-1",
+  tag = "0.1.2-1",
   url = "git://github.com/LuaDist-testing/lua-resty-mediador.git"
 }
 -- Original source
 -- source = {
 --   url    = "git://github.com/mashape/lua-resty-mediador.git",
---   branch = "v0.1.1"
+--   branch = "v0.1.2"
 -- }
 
 dependencies = {
